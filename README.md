@@ -10,10 +10,11 @@
 <p>
     <font face="微软雅黑, Microsoft YaHei"><span style="font-size: 16px; font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;">比如，有配置文件 config.properties</span></font>
 </p>
-<p>
-    <font face="微软雅黑, Microsoft YaHei"></font>
-</p>
-<pre class="brush:js;toolbar:false">CONFIG_1=Config1<br/>CONFIG_2=Config2</pre>
+
+<pre class="brush:js;toolbar:false">
+  CONFIG_1=Config1<br/>
+  CONFIG_2=Config2
+</pre>
 <p>
     <span style="font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;">程序编译以后会产生一个Config类</span>
 </p>
