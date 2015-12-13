@@ -13,14 +13,19 @@
 <p>
     <font face="微软雅黑, Microsoft YaHei"></font>
 </p>
-<pre class="brush:js;toolbar:false">CONFIG_1=Config1CONFIG_2=Config2</pre>
+<pre class="brush:js;toolbar:false">CONFIG_1=Config1<br/>CONFIG_2=Config2</pre>
 <p>
     <span style="font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;">程序编译以后会产生一个Config类</span>
 </p>
 <p>
     <br/>
 </p>
-<pre class="brush:js;toolbar:false">public static final Config {  public static final CONFIG_1 = &quot;Config1&quot;;  public static final CONFIG_2 = &quot;Config2&quot;;}</pre>
+<pre class="brush:js;toolbar:false">
+public static final Config {  
+    public static final CONFIG_1 = &quot;Config1&quot;;  <br/>
+    public static final CONFIG_2 = &quot;Config2&quot;; <br/>
+  }
+</pre>
 <p>
     <font face="微软雅黑, Microsoft YaHei"><br/></font>
 </p>
